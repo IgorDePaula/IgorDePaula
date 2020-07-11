@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igordepaula/)](https://www.linkedin.com/in/igordepaula/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:principe.borodin@gmail.com)](mailto:principe.borodin@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/igorcdepaula)](https://twitter.com/igorcdepaula)
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Igor Carvalho&logo=medium&&link=https://medium.com/)](https://medium.com/@principe.borodin)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Igor+Carvalho&logo=medium&&link=https://medium.com/)](https://medium.com/@principe.borodin)
 
 ###  Welcome to my profile :octocat:
 
