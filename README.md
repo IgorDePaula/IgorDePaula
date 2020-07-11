@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Igor de Paula
 
-<!--
-**IgorDePaula/IgorDePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulianaOnofrio)](https://github.com/IgorDePaula)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igordepaula/)](https://www.linkedin.com/in/julianaonofrio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:principe.borodin@gmail.com)](mailto:julianadeonofrio@gmail.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Welcome to my profile :octocat:
+
+My name is Igor and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in PHP, IoT, JavaScript, NodeJs technologies. 11 years of work, always learn new technologies, always in front.
+
+- 🔭 I’m currently working on [Fundação do Câncer](https://www.cancer.org.br/)
+- 🌱 I’m currently learning React Native, Kubernetes
+- 👯 I’m looking to collaborate on PHP, JS comunities
+- 🤔 I’m looking for help with PHP, JS, React
+
+
