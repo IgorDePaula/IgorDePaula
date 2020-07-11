@@ -7,7 +7,7 @@
 
 ###  Welcome to my profile :octocat:
 
-My name is Igor and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in PHP, IoT, JavaScript, NodeJs technologies. 11 years of work, always learn new technologies, always in front.
+My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in PHP, IoT, JavaScript, NodeJs technologies. 11 years of work, always learn new technologies, always in front.
 
 - 🔭 I’m currently working on [Fundação do Câncer](https://www.cancer.org.br/)
 - 🌱 I’m currently learning React Native, Kubernetes
