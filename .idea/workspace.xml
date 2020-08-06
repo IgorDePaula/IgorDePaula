@@ -14,6 +14,17 @@
       <change afterPath="$PROJECT_DIR$/icons/golang.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icons/html5.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/icons/js.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/laravel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/linux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/mongodb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/nodejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/php.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/phpstorm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ubuntu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/vuejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/webstorm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,11 +52,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596726731899</updated>
-      <workItem from="1596726733099" duration="308000" />
+      <workItem from="1596726733099" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="265" width="570" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596727010966">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="546" y="265" width="570" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1528.873@72.27.1528.873" timestamp="1596727010966" />
   </component>
 </project>
