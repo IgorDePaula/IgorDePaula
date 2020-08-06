@@ -2,29 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a28e5ae6-3479-4091-8cc7-305750de2a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/icons/androis.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/apache.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/apple.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/aws.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/css3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/docker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/electronjs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/firefox.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/golang.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/html5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/js.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/laravel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/linux.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/mongodb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/nodejs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/php.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/phpstorm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/ubuntu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/vuejs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/webstorm.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/androis.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/android.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/apache.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/apache.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/apple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/apple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/aws.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/aws.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/css3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/css3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/docker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/docker.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/electronjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/electronjs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/firefox.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/firefox.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/github.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/golang.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/golang.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/html5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/html5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/js.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/js.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/laravel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/laravel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/mongodb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/mongodb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/nodejs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/nodejs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/php.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/php.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/phpstorm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/phpstorm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/ubuntu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/ubuntu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/vuejs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/vuejs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/webstorm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/webstorm.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596726731899</updated>
-      <workItem from="1596726733099" duration="644000" />
+      <workItem from="1596726733099" duration="997000" />
     </task>
     <servers />
   </component>
