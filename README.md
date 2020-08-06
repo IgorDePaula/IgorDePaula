@@ -42,6 +42,6 @@ My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies
 - 🔭 I’m currently working on [Fundação do Câncer](https://www.cancer.org.br/)
 - 🌱 I’m currently learning React Native, Kubernetes
 - 👯 I’m looking to collaborate on PHP, JS comunities
-- 🤔 I’m looking for help with PHP, JS, React
-<img src="https://github-readme-stats.vercel.app/api?username=igordepaula&show_icons=true" alt="maykbrito" /> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=igordepaula&show_icons=true" alt="igordepaula" /> 
 
