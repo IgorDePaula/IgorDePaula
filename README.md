@@ -18,7 +18,7 @@ My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/css3.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/docker.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/electronjs.svg"/>
- <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/firefox.svg"/>
+ <img width="36" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg"/>
  <img width="36" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/github.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/golang.svg"/>
@@ -34,7 +34,7 @@ My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/react.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/ubuntu.svg"/>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/vuejs.svg"/>
- <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/webstorm.svg"/>
+ <img width="36" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"/>
 
 
  </p>
