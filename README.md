@@ -44,4 +44,4 @@ My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies
 - 👯 I’m looking to collaborate on PHP, JS comunities
 
 <img src="https://github-readme-stats.vercel.app/api?username=igordepaula&show_icons=true" alt="igordepaula" /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordepaula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordepaula" />
