@@ -39,7 +39,7 @@ My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies
 
  </p>
 
-- 🔭 I’m currently working on [SysMap](https://www.sysmap.com.br/)
+- 🔭 I’m currently working no company
 - 🌱 I’m currently learning React Native, Kubernetes
 - 👯 I’m looking to collaborate on PHP, JS comunities
 
