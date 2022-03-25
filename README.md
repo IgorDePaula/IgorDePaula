@@ -8,7 +8,7 @@
 
 ###  Welcome to my profile :octocat:
 
-My name is Igor and I'm FullCicle developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in PHP, IoT, JavaScript, NodeJs technologies. 11 years of work, always learn new technologies, always in front.
+My name is Igor and I'm FullCycle developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in PHP, IoT, JavaScript, NodeJs technologies. 11 years of work, always learn new technologies, always in front.
 
 <p>
  <img width="36" src="https://github.com/IgorDePaula/IgorDePaula/blob/master/icons/android.svg"/>
